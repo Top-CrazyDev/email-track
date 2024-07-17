@@ -1,0 +1,48 @@
+{
+    "id":"",
+    "company name":"",
+    "list":[
+        {
+            "id":"",
+            "campain name":"",
+            "Total email send":"",
+            "Total email open":"",
+            "Total email unopened":"",
+            "Total Link":[
+                {
+                    "Link Name":"",
+                    "Link":""
+                }],
+            "email sent":[
+                {
+                    "First name":"",
+                    "Last name":"",
+                    "email id":"",
+                    "Total opens":"",
+                    "Opens":[
+                        {
+                            "Ip address":"",
+                            "Device":"",
+                            "Country":""
+                        }
+                    ]
+                }
+            ],
+            "List Email Open from privious campain":[
+                {
+                    "First name":"",
+                    "Last name":"",
+                    "email id":""
+                }
+            ]
+            
+        }
+    ],
+    "email list":[
+        {
+            "First name":"",
+            "Last name":"",
+            "email id":""
+        }
+    ]
+}
